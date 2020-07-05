@@ -36,9 +36,7 @@ User input validation is present to ensure that customers cannot purchase more i
 
 - Open MySQL Workbench, SQL Pro, or your preferred database    management app. Open the "bamazon.sql" script from the cloned repo, and run it to set up the database and base product/department data.
 
-- Next, within the cloned repo, you'll need to create a pw.js   file with the following code, and add your password to access your root server to that file. This file is a dependency for the app. If you do not require a password to access your root, simply leave the pw property as an empty string.
-
-  var pwd = {
+- var pwd = {
 	pw: "YOUR PASSWORD HERE"
   }
 	
@@ -101,3 +99,4 @@ When you are ready to leave, click exit.
 - https://youtu.be/6IKr_RAvpkA
 - https://youtu.be/m2ha4stv7mY
 - https://youtu.be/UaPcrGbwpTQ
+
