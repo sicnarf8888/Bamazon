@@ -15,6 +15,12 @@ A Node app for customers to view items and place orders, for managers to perform
 - inquirer
 - console.table
 
+### NPM Packages:
+
+- MysQL
+- Inquirer
+- CLI-table
+
 ### Features
 
 Inquirer provides an easy to use UI with prompts asking the user what they would like to do.Customers may purchase products from the available products in the database.
@@ -100,3 +106,6 @@ When you are ready to leave, click exit.
 - https://youtu.be/m2ha4stv7mY
 - https://youtu.be/UaPcrGbwpTQ
 
+### My Portfolio
+
+https://sicnarf8888.wixsite.com/fduya-portfolio-2020
