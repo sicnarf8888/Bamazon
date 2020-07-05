@@ -87,5 +87,11 @@ When you are ready to leave, click exit.
 
 #### Images
 
-
-![img1](/images/img1.png)
+![img1](https://user-images.githubusercontent.com/25557837/86536736-cbb57b00-be9e-11ea-9339-4b31fbd4eb14.PNG)
+![img2](https://user-images.githubusercontent.com/25557837/86536738-cc4e1180-be9e-11ea-9238-2460a4215d0a.PNG)
+![img3](https://user-images.githubusercontent.com/25557837/86536740-cce6a800-be9e-11ea-9247-aaedbbc6e9af.PNG)
+![img4](https://user-images.githubusercontent.com/25557837/86536741-cce6a800-be9e-11ea-8521-edb584a632c0.PNG)
+![img5](https://user-images.githubusercontent.com/25557837/86536743-cce6a800-be9e-11ea-913b-2f1382f749a4.PNG)
+![img6](https://user-images.githubusercontent.com/25557837/86536744-cce6a800-be9e-11ea-9cf5-c242a5d0524c.PNG)
+![img7](https://user-images.githubusercontent.com/25557837/86536746-cd7f3e80-be9e-11ea-9b77-75487eca0d3f.PNG)
+![img8](https://user-images.githubusercontent.com/25557837/86536748-cd7f3e80-be9e-11ea-876a-a1dcc44579c0.PNG)
