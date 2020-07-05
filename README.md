@@ -96,3 +96,7 @@ When you are ready to leave, click exit.
 ![img7](https://user-images.githubusercontent.com/25557837/86536912-35825480-bea0-11ea-99e0-f0ed9a788452.PNG)
 ![img8](https://user-images.githubusercontent.com/25557837/86536913-35825480-bea0-11ea-9b83-19d26b5747a3.PNG)
 
+### Bamazon in action
+
+
+
