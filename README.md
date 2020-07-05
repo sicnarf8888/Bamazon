@@ -112,11 +112,11 @@ https://sicnarf8888.wixsite.com/fduya-portfolio-2020
 
 #### Helpful Links
 
-https://www.npmjs.com/package/mysql
-https://en.wikipedia.org/wiki/MySQL
-https://dev.mysql.com/doc/workbench/en/
-https://www.npmjs.com/package/mysql
-https://www.npmjs.com/package/inquirer
-https://www.npmjs.com/package/cli-table
+- https://www.npmjs.com/package/mysql
+- https://en.wikipedia.org/wiki/MySQL
+- https://dev.mysql.com/doc/workbench/en/
+- https://www.npmjs.com/package/mysql
+- https://www.npmjs.com/package/inquirer
+- https://www.npmjs.com/package/cli-table
 
 
