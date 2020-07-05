@@ -66,3 +66,4 @@ FROM departments
 INNER JOIN products
 ON departments.department_name = products.department_name
 GROUP BY department_id;
+
