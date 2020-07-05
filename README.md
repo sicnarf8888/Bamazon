@@ -83,5 +83,9 @@ User input validation is present to ensure that customers cannot purchase more i
 
 If you select create new department, follow the prompts for department name and overhead costs
 
-When you are ready to leave, click exit
+When you are ready to leave, click exit.
 
+#### Images
+
+
+![img1](/images/img1.png)
