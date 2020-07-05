@@ -85,5 +85,14 @@ If you select create new department, follow the prompts for department name and 
 
 When you are ready to leave, click exit.
 
-#### Images
+### Images
+
+![img1](https://user-images.githubusercontent.com/25557837/86536906-33b89100-bea0-11ea-9ee1-b272ee188019.PNG)
+![img2](https://user-images.githubusercontent.com/25557837/86536907-34512780-bea0-11ea-9d48-2611b26ebd6e.PNG)
+![img3](https://user-images.githubusercontent.com/25557837/86536908-34512780-bea0-11ea-89e3-f90f4496a1dd.PNG)
+![img4](https://user-images.githubusercontent.com/25557837/86536909-34e9be00-bea0-11ea-8740-9e611f12fb86.PNG)
+![img5](https://user-images.githubusercontent.com/25557837/86536910-34e9be00-bea0-11ea-8950-e314b53930e2.PNG)
+![img6](https://user-images.githubusercontent.com/25557837/86536911-34e9be00-bea0-11ea-81e4-69bdc7d43dfc.PNG)
+![img7](https://user-images.githubusercontent.com/25557837/86536912-35825480-bea0-11ea-99e0-f0ed9a788452.PNG)
+![img8](https://user-images.githubusercontent.com/25557837/86536913-35825480-bea0-11ea-9b83-19d26b5747a3.PNG)
 
